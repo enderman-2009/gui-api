@@ -7,7 +7,6 @@ local filesystem = require("filesystem")
 local unicode = require("unicode")
 local event = require("event")
 local color = require("color")
-local image = require("image")
 local buffer = require("doubleBuffering")
 
 -----------------------------------------------------------------------------------------
